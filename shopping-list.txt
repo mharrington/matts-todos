@@ -7,3 +7,5 @@ curtains
 shed
 decking
 bbq
+sausages
+bacon
