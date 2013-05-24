@@ -1,5 +1,5 @@
-hit ball
-drop bat
-run
 catch run
 celebrate
+drop bat
+hit ball
+run

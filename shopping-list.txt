@@ -1,21 +1,15 @@
-paint
+bacon
+bbq
+buns
 carpet
+curtains
+crumpets
+decking
+paint
 tablecloth
 sandpaper
-curtains
 shed
-decking
-bbq
 sausages
-<<<<<<< HEAD
-bacon
-buns
 sauce
-=======
-bacon
->>>>>>> parent of bd699d7... Added 1 item
 rubbish bags
-crumpets
 muffins
-
-
