@@ -1,0 +1,4 @@
+swing bat
+hit ball
+drop bat
+run
