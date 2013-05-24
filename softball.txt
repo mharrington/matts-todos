@@ -2,4 +2,4 @@ hit ball
 drop bat
 run
 catch run
-celebrate
+drink
