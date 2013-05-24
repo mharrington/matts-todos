@@ -1,4 +1,5 @@
-swing bat
 hit ball
 drop bat
 run
+catch run
+celebrate
