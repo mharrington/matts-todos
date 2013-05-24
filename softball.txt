@@ -3,4 +3,3 @@ drop bat
 run
 catch run
 celebrate
-beers
